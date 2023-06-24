@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner
 
 public class _5_reverse_each_word {
 
