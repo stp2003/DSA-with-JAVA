@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner
 
 public class _1_Matrix_Basics {
 
